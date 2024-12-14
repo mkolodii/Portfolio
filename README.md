@@ -1,7 +1,6 @@
 # Portfolio
-A select few projects of mine
 
-Included are:
+The content of this Github redistry are as follow:
 
 1) An abstract describing the findings of American and Japaense manual users in relation to their illsutration preferences. 
 
