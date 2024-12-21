@@ -8,7 +8,7 @@ The content of this Github registry is as follows:
 
 3) A redesign of the Feb 2018 Byline Newsletter with mock-up images and graphics.
 
-4) A portfolio file with 4 select projects that can also be found below. The projects found within the Portfolio.pdf file are: Campfire Use case, campfire SOP, Amp Process Description, and "See Also" Submission Guidelines.
+4)  
 
 5) Basic guidelines for creating SOP content
 
