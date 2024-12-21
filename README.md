@@ -12,11 +12,11 @@ The content of this Github registry is as follows:
 
 5) A process description showcasing how to purchase a bass amplifier from Fender.com
 
-6) Submission Guidelines for the American Society of Indexers' newsletter "See Also"
+6) Submission Guidelines for the American Society of Indexers' newsletter "See Also".
 
-7) The README
+7) The README.
 
-8) SOP for campfire starting
+8) SOP for campfire starting.
 
-9) Use case showcasing two campfire scenarios
+9) Use case showcasing two campfire scenarios.
     
