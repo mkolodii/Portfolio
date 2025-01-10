@@ -16,9 +16,9 @@ The content of this Github registry is as follows:
 
 7) The README.
 
-8) SOP for campfire starting.
+8) SOP for campfire starting. Formatted as a regulated industry compliant document.
 
-9) How to get started with Adobe InDesign tutorial. 
+9) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
 
-10) Use case showcasing two campfire scenarios.
+10) Use case showcasing two campfire scenarios. One depicts a normal path and the other an errenous one. 
     
