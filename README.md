@@ -4,9 +4,9 @@ The content of this Github registry is as follows:
 
 1) An abstract describing the findings of American and Japanese manual users in relation to their illustration preferences. 
 
-2) A graphic design showcasing 4 entry level motorcycles with accessible data. An additional 2 page rationale report is attached.
+2) A graphic design showcasing 4 entry level motorcycles with accessibility data. An additional 2 page rationale report is attached.
 
-3) A 19 slide PowerPoint tutorial instructing a user how to change a string on an acoustic bass guitar.
+3) A 19 slide PowerPoint tutorial instructing users how to change a string on an acoustic bass guitar.
 
 4) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
 
@@ -14,6 +14,6 @@ The content of this Github registry is as follows:
 
 6) The README.
 
-7) SOP for campfire starting. Formatted as a regulated industry compliant document.
+7) SOP for campfire starting. Formatted as a regulated-industry compliant document.
 
 8) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
