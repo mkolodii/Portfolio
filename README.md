@@ -8,7 +8,7 @@ The content of this Github registry is as follows:
 
 3) A 19 slide PowerPoint tutorial instructing a user how to change a string on an acoustic bass guitar.
 
-4) An improved and original graphic design of the Chicago STC newsletter "Byline" withliberal use of space and color.
+4) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
 
 5) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
 
