@@ -12,8 +12,10 @@ The content of this Github registry is as follows:
 
 5) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
 
-6) The README.
+6) A table showcasing key information for the Youth Leadership Institute's 12 programs.
 
-7) SOP for campfire starting. Formatted as a regulated-industry compliant document.
+7) The README.
 
-8) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
+8) SOP for campfire starting. Formatted as a regulated-industry compliant document.
+
+9) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
