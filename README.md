@@ -12,7 +12,7 @@ The content of this Github registry is as follows:
 
 5) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
 
-6) A table showcasing key information for the Youth Leadership Institute's 12 programs.
+6) A spreadsheet listing key information about the Youth Leadership Institute's programs.
 
 7) The README.
 
