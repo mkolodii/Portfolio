@@ -6,16 +6,18 @@ The content of this Github registry is as follows:
 
 2) A graphic design showcasing 4 entry level motorcycles with accessibility data. An additional 2 page rationale report is attached.
 
-3) A 19 slide PowerPoint tutorial instructing users how to change a string on an acoustic bass guitar.
+3) A step-by-step tutorial instructing a user how to use Cricut products in order to design and press a T-shirt.
 
-4) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
+4) A tutorial instructing users how to change a string on an acoustic bass guitar.
 
-5) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
+5) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
 
-6) A spreadsheet listing key information about the Youth Leadership Institute's programs.
+6) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
 
-7) The README.
+7) A spreadsheet listing key information about the San Mateo Youth Leadership Institute's programs.
 
-8) SOP for campfire starting. Formatted as a regulated-industry compliant document.
+8) The README.
 
-9) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
+9) SOP for campfire starting. Formatted as a regulated-industry compliant document.
+
+10) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
