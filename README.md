@@ -6,7 +6,7 @@ The content of this Github registry is as follows:
 
 2) A graphic design showcasing 4 entry level motorcycles with accessibility data. An additional 2 page rationale report is attached.
 
-3) A step-by-step tutorial instructing a user how to use Cricut products in order to design and press a T-shirt.
+3) A step-by-step tutorial instructing a youth leader how to use Cricut products in order to design and press a T-shirt.
 
 4) A tutorial instructing users how to change a string on an acoustic bass guitar.
 
@@ -20,4 +20,6 @@ The content of this Github registry is as follows:
 
 9) SOP for campfire starting. Formatted as a regulated-industry compliant document.
 
-10) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
+10) A step-by-step tutorial informing a youth leader how to prepare and use a screen printer in order to design clothing. 
+
+11) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
