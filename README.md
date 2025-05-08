@@ -2,9 +2,9 @@
 
 The content of this Github registry is as follows:
 
-1) An abstract describing the findings of American and Japanese manual users in relation to their illustration preferences. 
+1) An abstract describing the written and illustrated preferences of American and Japanese manual users.
 
-2) A graphic design showcasing 4 entry level motorcycles with accessibility data. An additional 2 page rationale report is attached.
+2) A graphic design showcasing 4 entry level motorcycles with accessibility data with an additional 2 page rationale report.
 
 3) A step-by-step tutorial instructing a youth leader how to use Cricut products in order to design and press a T-shirt.
 
@@ -18,8 +18,8 @@ The content of this Github registry is as follows:
 
 8) The README.
 
-9) SOP for campfire starting. Formatted as a regulated-industry compliant document.
+9) An SOP for campfire starting, formatted as a regulated-industry compliant document.
 
-10) A step-by-step tutorial informing a youth leader how to prepare and use a screen printer in order to design clothing. 
+10) A step-by-step tutorial instructing a youth leader how to prepare and use a screen printer.
 
-11) How to get started with Adobe InDesign tutorial. Designed as an onboarding document for newly hired virtual teachers. 
+11) A tutorial document instructing newly hired teachers how to get started with Adobe Indesign.
