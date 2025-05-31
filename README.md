@@ -1,6 +1,6 @@
 # Portfolio
 
-The content of this Github registry is as follows:
+The content of this Github repository is as follows:
 
 1) A flyer highlighting the achievements made at the Youth Leadership Institute.
 
