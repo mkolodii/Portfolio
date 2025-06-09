@@ -1,6 +1,6 @@
 # Portfolio
 
-The content of this Github repository is as follows:
+The contents of this Github repository are as follows:
 
 1) A flyer highlighting the achievements made at the Youth Leadership Institute.
 
