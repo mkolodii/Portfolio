@@ -8,11 +8,11 @@ The content of this Github repository is as follows:
 
 3) Lake Merced golf course action proposal poster digital copy.
 
-4) A graphic design showcasing 4 entry level motorcycles with accessibility data with an additional 2 page rationale report.
+4) A step-by-step tutorial instructing a youth leader how to use Cricut products in order to design and press a T-shirt.
 
-5) A step-by-step tutorial instructing a youth leader how to use Cricut products in order to design and press a T-shirt.
+5) A tutorial instructing users how to change a string on an acoustic bass guitar.
 
-6) A tutorial instructing users how to change a string on an acoustic bass guitar.
+6) A graphic design showcasing 4 entry level motorcycles with key data points. 
 
 7) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
 
