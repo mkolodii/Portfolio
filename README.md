@@ -14,7 +14,7 @@ The contents of this Github repository are as follows:
 
 6) A graphic design showcasing 4 entry level motorcycles with key data points. 
 
-7) An original graphic design of the Chicago STC newsletter "Byline" with liberal use of space and color.
+7) A redesign, utilizing liberal use of space and color, of the Chicago STC "Byline" newsletter.
 
 8) A consumer focused process description showcasing how to purchase a bass amplifier from Fender.com
 
